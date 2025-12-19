@@ -51,7 +51,7 @@ draft = false
 ## Publications
 
  - Gadgil, S., **Baskar, P.R.**, Sebastian, B. et al. **Grasp Planning for Underactuated Three-Finger Grippers Using a Novel Triangular Representation.** J Intell Robot Syst 111, 101 (2025). https://doi.org/10.1007/s10846-025-02307-3
- - **Baskar P R**, Sebastian B, Dubey A, Kuriakose S M: **Intelligent Grasp Planning using Open-Vocabulary Image Segmentation and Large Language Models**, 2025 IEEE 4th Intl. Conference on Smart Technologies for Power, Energy and Control, NIT Goa, India (under review)
+ - **Baskar P R**, Sebastian B, Dubey A, Kuriakose S M: **Intelligent Grasp Planning using Open-Vocabulary Image Segmentation and Large Language Models**, 2025 IEEE 4th Intl. Conference on Smart Technologies for Power, Energy and Control, NIT Goa, India (Received Best Paper Award)
 
 <!-- 
 {{< spacer size="small" >}}

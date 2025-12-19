@@ -4,7 +4,7 @@ date: 2025-05-19T14:56:00+01:00
 draft: false
 description: "A comprehensive overview of technical skills and expertise across various domains."
 skill_categories:
-  - name: "Languages & Libraries"
+  - name: "Languages"
     skills:
       - name: "C++"
         # level: 95
@@ -45,6 +45,7 @@ skill_categories:
       - name: "ROS NavStack"
       - name: "PyBullet"
       - name: "Gazebo"
+      - name: "AirSim"
         # level: 90
         # years: "8+"
         # description: "Express, NestJS, API development"
@@ -52,7 +53,6 @@ skill_categories:
         # level: 85
         # years: "6+"
         # description: "EC2, S3, Lambda, CloudFront, RDS"
-      - name: "AutoCAD"
 ---
 
 Here are some of the skills I have acquired over the past few years.
