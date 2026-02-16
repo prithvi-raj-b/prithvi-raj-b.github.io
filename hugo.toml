@@ -129,6 +129,12 @@ weight = 0
 name = "Home"
 URL = "/"
 weight = 1
+
+[[languages.en.menus.header]]
+name = 'All Projects'
+URL = '/projects'
+weight = 2
+
 # [[languages.en.menus.header]]
 # name = 'About'
 # URL = '#about'
