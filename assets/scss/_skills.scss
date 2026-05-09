@@ -14,11 +14,16 @@
 // }
 
 .skill-item {
-    margin-bottom: 30px;
-    padding: 20px;
+    margin-bottom: 15px;
+    padding: 8px 16px;
     border-radius: 8px;
     background-color: #f8f9fa;
     transition: all 0.3s ease;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
 }
 
 .skill-item:hover {
@@ -28,15 +33,16 @@
 
 .skill-header {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
-    margin-bottom: 10px;
+    margin-bottom: 0;
 }
 
 .skill-name {
     font-weight: 600;
     font-size: 1.1rem;
     margin: 0;
+    white-space: nowrap;
 }
 
 // .skill-level {

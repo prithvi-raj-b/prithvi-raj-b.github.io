@@ -6,7 +6,7 @@ description: "A comprehensive overview of technical skills and expertise across 
 skill_categories:
   - name: "Languages"
     skills:
-      - name: "C++"
+      - name: "C/C++"
         # level: 95
         # years: "3"
         # description: ""
@@ -26,17 +26,9 @@ skill_categories:
       #   level: 75
       #   years: "6+"
       #   description: "Android native development"
-  - name: "Libraries"
-    skills:
-      - name: "PyTorch"
-      - name: "OpenCV"
-      - name: "Scipy"
-      - name: "Sympy"
-      - name: "OpenMP"
-      - name: "OpenMPI"
-      - name: "OpenACC"
   - name: "Tools & Frameworks"
     skills:
+      - name: "Blender"
       - name: "ROS"
         # level: 90
         # years: "7+"
@@ -53,6 +45,15 @@ skill_categories:
         # level: 85
         # years: "6+"
         # description: "EC2, S3, Lambda, CloudFront, RDS"
+  - name: "Libraries"
+    skills:
+      - name: "PyTorch"
+      - name: "OpenCV"
+      - name: "Scipy"
+      - name: "Sympy"
+      - name: "OpenMP"
+      - name: "OpenMPI"
+      - name: "OpenACC"
 ---
 
 Here are some of the skills I have acquired over the past few years.

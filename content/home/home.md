@@ -40,7 +40,7 @@ draft = false
     title="Formal Education" >}}
 
 {{< client-and-work-section
-    title="A selection of my work" >}} 
+    title="My work" >}} 
 
 {{< experience-list
     title="Technical Experience"

@@ -85,6 +85,10 @@ h2 {
   font-size: 32px;
 }
 
+.client-works-container > h2 {
+  font-size: 48px;
+}
+
 @media (min-width: 992px) {
   h1 {
     margin-bottom: 10px;
@@ -92,6 +96,9 @@ h2 {
   h2 {
     margin-bottom: 10px;
     font-size: 36px;
+  }
+  .client-works-container > h2 {
+    font-size: 56px;
   }
 }
 
