@@ -8,7 +8,7 @@ draft: false # set to "true" if you want to hide the content
 params:
     image:
         src: "images/works/rrt-kuka.png"
-        scale: 1.0
+        scale: 0.5
 
 ## The content is used for the description of the project
 ---
