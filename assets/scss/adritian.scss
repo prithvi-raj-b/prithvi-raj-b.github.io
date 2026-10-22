@@ -480,3 +480,8 @@ footer_links .nav-item .nav-link::after {
 }
 
 /* end dark mode */
+
+/* hide the theme's always-rendered phone field in the contact form */
+.contact__form .row:has(input[name="phone"]) {
+  display: none;
+}

@@ -1,6 +1,7 @@
 ---
 date: '2025-12-13T09:53:42+02:00' # date in which the content is created - defaults to "today"
 title: 'Monosense: Monocular Perception Pipeline for Urban Scene Understanding'
+description: "Monocular perception pipeline for urban driving: YOLOv8 detection, FCOS3D + Depth-Anything-V2 3D pose, and ego-motion-compensated velocity estimation across 27,000+ frames."
 draft: false # set to "true" if you want to hide the content 
 
 
@@ -16,5 +17,3 @@ params:
 In this project from the Computer Vision course at WPI, we architected an end-to-end monocular perception pipeline over 27,000+ frames spanning 13 Tesla Model S sequences, unifying detection, depth, 3D pose, and velocity estimation into a Blender-rendered 3D scene. We trained custom YOLOv8 detectors on the BDD100K and LISA Traffic Sign datasets, achieving an mAP50 of 0.564 and 0.859 respectively, and added a 3-tier vehicle subtype classifier (sedan/SUV/pickup) with an FCOS3D-height fallback.
 
 My work involved developing 3D pose estimation through FCOS3D and Depth-Anything-V2 fusion, along with a 3-stage velocity pipeline using Lucas-Kanade ego-motion and RANSAC 6-DoF alignment for parked/moving vehicle classification and 5-second collision prediction. We also implemented classical CV modules for traffic-light state and arrow detection, brake lights, road arrows, pedestrian pose using YOLOv8m, and YOLOWorld open-vocabulary detection of cones, barrels, and dustbins.
-
-```

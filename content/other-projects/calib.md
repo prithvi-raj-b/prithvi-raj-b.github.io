@@ -1,6 +1,7 @@
 ---
 date: '2025-12-11T09:53:42+02:00' # date in which the content is created - defaults to "today"
 title: 'AutoCalib: Camera Calibration using Checkerboard Pattern'
+description: "Camera calibration from scratch using Zhang's method: homography initialization, Levenberg-Marquardt refinement of intrinsics and radial distortion, and image rectification."
 draft: false # set to "true" if you want to hide the content 
 
 
@@ -14,5 +15,3 @@ params:
 [Github](https://github.com/prithvi-raj-b/CV-AutoCalib.git)
 
 I built an automatic camera calibration pipeline from scratch using a checkerboard pattern to estimate a camera’s intrinsic parameters, extrinsic pose, and radial lens distortion. Following the method proposed by Zhengyou Zhang, I implemented homography-based initialization and Rodrigues parameterization for rotation to minimize reprojection error across multiple calibration images. The parameters were optimized using the Levenberg-Marquardt Algorithm. I then developed a custom reverse-mapping image rectification module with bilinear interpolation to remove distortion using the optimized parameters.
-
-```

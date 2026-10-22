@@ -7,7 +7,7 @@ draft = false
 
 {{< showcase-section
     title="Hello, I'm Prithvi Raj"
-    subtitle="Robotics Engineer, "
+    subtitle="Robotics Engineer"
     buttonText="prithvi.robotics@gmail.com"
     button_icon="icon-user"
     button_text="Check my skills"
@@ -25,17 +25,6 @@ draft = false
 
 {{< /showcase-section >}}
 
-<!-- {{< about-section
-    title="About me"
-    content="This content is using the <code>about-section</code> shortcode. <br/>You can write <code>HTML</code>, as long as you <em>wrap it</em> accordingly. "
-    button_icon="icon-user"
-    button_text="Check my skills"
-    button_url="/skills"
-    imgSrc="images/about/user-picture.png"
-    imgScale="0.5"
-    text_align="center"
- >}} -->
-
 {{< education-list
     title="Formal Education" >}}
 
@@ -52,15 +41,3 @@ draft = false
 
  - **Baskar P R**, Sebastian B, Dubey A, Kuriakose S M: **Intelligent Grasp Planning using Open-Vocabulary Image Segmentation and Large Language Models**, 2025 IEEE 4th Intl. Conference on Smart Technologies for Power, Energy and Control, NIT Goa, India. (Received Best Paper Award) https://doi.org/10.1109/STPEC66316.2025.11490732
  - Gadgil, S., **Baskar, P.R.**, Sebastian, B. et al. **Grasp Planning for Underactuated Three-Finger Grippers Using a Novel Triangular Representation.** Journal of Intelligent & Robotic Systems 111, 101 (2025). https://doi.org/10.1007/s10846-025-02307-3
-
-<!-- 
-{{< spacer size="small" >}}
-
-{{< text-section
-title="Extra (centered) content"
-centered="true"
->}}
-
-You can also use the `text-section` shortcode to add centered texts
-
-{{< /text-section >}} -->

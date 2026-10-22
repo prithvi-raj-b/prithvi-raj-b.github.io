@@ -41,7 +41,7 @@
 
 ## Homepage head title
 - id: "head_title"
-  translation: "Prithvi Raj Baskar's Website"
+  translation: "Prithvi Raj Baskar"
 
 - id: "head_description"
   translation: "Robotics engineer working on perception, manipulation and autonomous navigation. M.S. Robotics Engineering at Worcester Polytechnic Institute."
