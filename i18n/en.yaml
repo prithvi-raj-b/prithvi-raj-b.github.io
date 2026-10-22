@@ -1,10 +1,4 @@
 ## Meta tags
-# - id: "meta_title"
-#   translation: "Adritian - a high performance hugo theme by Adrián Moreno"
-# - id: "meta_description"
-#   translation: "This hugo theme (Adritian) is based on Bootstrap and has features that make it suitable for a personal site, a portfolio or other kind of Single Page Applications."
-# - id: "meta_keywords"
-#   translation: "hugo, theme, bootstrap, adritian, adrian moreno, personal site, portfolio, single page application"
 - id: "meta_author"
   translation: "Prithvi Raj Baskar"
 - id: "meta_image"
@@ -13,7 +7,7 @@
 ## Header
 
 - id: "logo_alt"
-  translation: "Adritian logo"
+  translation: "Prithvi Raj Baskar logo"
 
 - id: "logo_text1"
   translation: "PrithviRaj"
@@ -30,7 +24,7 @@
 
 ## Footer
 - id: "footer_notice"
-  translation: "© Adritian. Free Hugo theme by Adrián Moreno Peña."
+  translation: "© Prithvi Raj Baskar"
 
 - id: "language"
   translation: "Language"
@@ -50,7 +44,7 @@
   translation: "Prithvi Raj Baskar's Website"
 
 - id: "head_description"
-  translation: "This website contains everything about my work."
+  translation: "Robotics engineer working on perception, manipulation and autonomous navigation. M.S. Robotics Engineering at Worcester Polytechnic Institute."
 
 
 ## Blog
@@ -71,3 +65,10 @@
 - id: "404_button"
   translation: "Back to homepage"
 
+
+## Experience buttons (override theme defaults)
+- id: "experience_button_url"
+  translation: "https://www.linkedin.com/in/prithvi-raj-baskar"
+
+- id: "experience_button2_url"
+  translation: "https://drive.google.com/file/d/19SeFf4vVzuCf4oBsq1dHhTjnU89_YmGn/view"

@@ -1,5 +1,5 @@
 baseURL = "https://prithvi-raj-b.github.io/"
-title = "Prithvi Raj"
+title = "Prithvi Raj Baskar"
 languageCode = "en"
 
 # Exclude footer section from generating list pages (index.html and index.xml)
@@ -63,9 +63,9 @@ target = "assets/css/bootstrap-print.css"
 
 
 [params]
-title = 'Adritian - a high performance hugo theme by Adrián Moreno'
-description = 'This hugo theme (Adritian) is based on Bootstrap and has features that make it suitable for a personal site, a portfolio or other kind of Single Page Applications.'
-images = ['/img/og-img.png']
+title = 'Prithvi Raj Baskar | Robotics Engineer'
+description = 'Robotics engineer working on perception, manipulation and autonomous navigation. M.S. Robotics Engineering at Worcester Polytechnic Institute.'
+images = ['/img/og-preview.png']
 sections = [
   "showcase",
   "about",
@@ -121,7 +121,7 @@ disabled = false
 languageCode = 'en'
 languageDirection = 'ltr'
 languageName = 'English'
-title = ''
+title = 'Prithvi Raj Baskar'
 weight = 0
 
 [languages.en.menus]

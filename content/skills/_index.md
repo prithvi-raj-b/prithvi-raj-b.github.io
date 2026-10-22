@@ -29,12 +29,14 @@ skill_categories:
   - name: "Tools & Frameworks"
     skills:
       - name: "Blender"
+      - name: "ROS 2"
       - name: "ROS"
         # level: 90
         # years: "7+"
         # description: "Web and cross-platform mobile apps"
       - name: "ROS MoveIt"
       - name: "ROS NavStack"
+      - name: "Isaac Sim"
       - name: "PyBullet"
       - name: "Gazebo"
       - name: "AirSim"

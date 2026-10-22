@@ -3,7 +3,6 @@ date: '2025-12-11T09:53:42+02:00' # date in which the content is created - defau
 title: 'AutoCalib: Camera Calibration using Checkerboard Pattern'
 draft: false # set to "true" if you want to hide the content 
 
-# link: "https://www.adrianmoreno.info" # optional URL to link the logo to
 
 params:
     image:
