@@ -36,7 +36,6 @@ skill_categories:
   - name: "3D Design"
     skills:
       - name: "Fusion 360"
-      - name: "Blender"
 ---
 
 Here are some of the skills I have acquired over the past few years.
